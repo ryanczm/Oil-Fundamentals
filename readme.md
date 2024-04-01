@@ -25,16 +25,16 @@
 # Table
 
 
-| Date    | Name |  Category | Description | Project Ideas | Length | Concepts | 
-| -------- | ------- | -------- | ------- | -------- | ------- |-------- |
-| Mar '20| How to sell more oil |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Nov '23| How China buys crude |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Nov '23| Will Saudi cut |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Nov '23| Russian price cap |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Jan '24| How Europe buys crude from Saudi |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Feb '24| Jevon's Paradox |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Feb '24| Role of SPR |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Mar '24| Biggest problem for oil market this summer |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Mar '24| US crude export growth |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Mar '24| Geopolitics of oil in Russia Ukraine war |Lorem| Lorem| Lorem| Lorem |Lorem|
-| Mar '24| TMX |Lorem| Lorem| Lorem| Lorem |Lorem|
+| Date    | Name |  Category | Description | Project Ideas |  Length | Concepts | Possible supporting data required | 
+| -------- | ------- | -------- | ------- | -------- | ------- |-------- | -------- |
+| Mar '20| How to sell more oil |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Nov '23| How China buys crude |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Nov '23| Will Saudi cut |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Nov '23| Russian price cap |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Jan '24| How Europe buys crude from Saudi |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Feb '24| Jevon's Paradox |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Feb '24| Role of SPR |Lorem| Lorem| Lorem| Lorem |Lorem|Lorem|
+| Mar '24| Biggest problem for oil market this summer |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Mar '24| US crude export growth |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Mar '24| Geopolitics of oil in Russia Ukraine war |Lorem| Lorem| Lorem| Lorem |Lorem| Lorem|
+| Mar '24| TMX |Lorem| Lorem| Lorem| Lorem |Lorem|Lorem|
