@@ -1,12 +1,4 @@
 
-# Commentary on EU Oil Embargo and G7 Price Cap Paper 27 March 2024 [(Link)](https://twitter.com/Big_Orrin/status/1772919294159995162)
-
-
-O: I said this was what was happening from the beginning. The price cap was something people with no experience of the market dream up. What now is helping is the sanctions on boats and the threat of secondary sanctions on banks. All adding to the cost Russia has to pay.
-
-* Paper link: https://www.dallasfed.org/~/media/documents/research/papers/2024/wp2401.pdf
-* Javier Blas tweet: https://twitter.com/JavierBlas/status/1772704482947699043
-
 
 # Flagship Thread 26 Nov 2023 [(Link)](https://twitter.com/Big_Orrin/status/1728708943348899933)
 
@@ -21,6 +13,15 @@ O: I said this was what was happening from the beginning. The price cap was some
 9. There are no good solutions left to try and stop Russia getting above the price cap that won’t force oil prices even higher. The only one is really to induce Saudi Arabia to pump more. That is not going to happen
 10. Secondary sanctions on Indian and Turkish banks would have geopolitical consequences and a higher oil price. Stopping vessels in the straits of Bosporous and Denmark may be illegal.
 11. The real problem has been politicians listening to people that have no clue about the market. Next time bring in the traders. It will not be perfect as workarounds will happen but it will be far more effective.
+
+# Commentary on EU Oil Embargo and G7 Price Cap Paper 27 March 2024 [(Link)](https://twitter.com/Big_Orrin/status/1772919294159995162)
+
+
+O: I said this was what was happening from the beginning. The price cap was something people with no experience of the market dream up. What now is helping is the sanctions on boats and the threat of secondary sanctions on banks. All adding to the cost Russia has to pay.
+
+* Paper link: https://www.dallasfed.org/~/media/documents/research/papers/2024/wp2401.pdf
+* Javier Blas tweet: https://twitter.com/JavierBlas/status/1772704482947699043
+
 
 # Why Price Cap Won't Work Reasons 16 Nov 2023 [(Link)](https://twitter.com/Big_Orrin/status/1725069926979772556)
 
