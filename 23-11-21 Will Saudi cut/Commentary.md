@@ -4,7 +4,7 @@
 r { color: Orange }
 </style>
 
-1.  **Prices rallied late on Friday and through Monday** (<r>Data: price data showing this rally?</r>) with the increased expectation of either OPEC+ or just Saudi cutting. If **cutting is about creating strong backwardation to stabilise prices** (<r>Exp: How does creating strong backwardation stabilize prices?</r>), then I think they are flawed in their thinking.
+1.  **Prices rallied late on Friday and through Monday** (<r>Data: price data showing this rally? Expl: linking market reaction to OPEC action</r>) with the increased expectation of either OPEC+ or just Saudi cutting. If **cutting is about creating strong backwardation to stabilise prices** (<r>Exp: Market forward curve reaction to OPEC action</r>), then I think they are flawed in their thinking.
 2.  It May drive out short speculators short term but oil price cannot just go up continually. Oil price movements are about momentum. At some point there will become a dearth of buyers. Longs will then take profit and short sellers will rejoin the fray pushing prices down again.
 3. It ends in a vicious circle of cuts, followed by extension of the cuts followed by more cuts **just trying to keep prices high**. This would be similar to their **1980s policy which failed miserably**(<r>Articles: what happened in 1980s policy?</r>). You cannot cut forever. to try to keep price up.
 4. Have initial rumours of a cut been to test the water? It is noticeable there has been no denial of the FT story yet. If the story is wrong then there is usually a firm response quickly. But at this point, trying to manage price with cutting volume looks a bigger risk long term
@@ -20,6 +20,11 @@ r { color: Orange }
 
 # Project
 
-* Figure out why and when Saudi/OPEC cut. 
-* Two parts: why cut (pov of OPEC) and market impact (analyze prices).
-* Why cut: to maximize revenue or maximize political power. But how?
+* Saudi/OPEC PoV
+  * History of OPEC
+  * History of prod/cut adjustments.
+  * Why cut or increase production?
+  * Why cut or increase OSP?
+  * Examine historical data + situations and understand how it works
+* Market PoV
+  * How does market response to these actions?

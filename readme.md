@@ -6,6 +6,8 @@
 * What is the data that we need to quantify this event? Augmenting data to support the argument. 
 * Why are the players acting in this way? (logic/analysis)
 
+Note, github markdown cannot render color. I bold selected parts of the text, then color in the data or article I need to understand it. Better viewed in vscode or some IDE.
+
 # Reduced Table
 
 
@@ -15,7 +17,7 @@
 |Contract mechanics| Write an article to understand contract mechanics of refiners buying crude cargoes. Understand end-to-end process. |
 |Russian price cap| Write an article to understand mechanics/situation of how the G7 price cuts work and why it failed. |
 |US LNG mechanics | Write an article to understand AllThingsLNG's article on how US LNG plants work and why they remain profitable regardless of low spot LNG. |
-|TMX | Write an article to understand Big Orrin's view that the TMX project will be a failure. |
+|TMX | Write an article to understand Big Orrin's view that the TMX project will be a failure + EFR's article. |
 
 
 # Table
@@ -35,3 +37,8 @@
 | Mar '24| US crude export growth |Future|Market play| Describing the problem of US crude export growth slowing as refineries outside US are nearing capacity of running shale. Doesn't mention how it will impact prices directly. In depth refinery mechanics.| "Shale capacity constraints and the future of US crude export growth". |XX| Refinery margins, refinery technicals | Articles, EIA data|
 | Mar '24| TMX |Future| Market play| Describing his view that TMX will flop.| "Will TMX fail? Understanding the impact TMX on Canadian and US crude markets" |XXX|International trade, freight technicals, refining technicals| Articles, freight data, refinery data, etc|
 
+# Data
+
+* Spot
+  * Brent, WTI, Urals, Dubai, Oman, WAF, WCS, ANS, Arab Light.
+  * Get from Oilprice.com chart. Then, use webplotdigitizer to extract the data.
