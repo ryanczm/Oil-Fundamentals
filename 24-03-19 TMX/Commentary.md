@@ -2,13 +2,18 @@
 
 ## Thread 19 March [(Link)](https://twitter.com/Big_Orrin/status/1769784284376703036)
 
+<style>
+r { color: Orange }
+</style>
+
+
 Views 
 
 - Short 🧵on what will be the most overhyped flop in the oil market. The answer is the Trans Mountain Pipeline. Canadians think this will have the effect of increasing demand for Canadian crude oil. Putting up the differential and make Canadian producers more profitable.
 
 Acidity 
 
--	The crude is very heavy has huge amounts of sulphur but worst of all most will have **aTaN of between 1.6 and 2.2**. The problem with **acidity is where it comes out in the refinery**. That **acidity number will increase as the crude is separated**. Because this is very heavy crude, the light crude it is **blended with will not help disperse the acidity**.
+-	The crude is very heavy has huge amounts of sulphur but worst of all most will have **aTaN of between 1.6 and 2.2**(<r>Data/article: how does aTaN work?</r>). The problem with **acidity is where it comes out in the refinery**(<r></r>). That **acidity number will increase as the crude is separated**. Because this is very heavy crude, the light crude it is **blended with will not help disperse the acidity**.
 -	**Few refineries** can refine that. Refineries that are designed for running this crude are **mainly based in U.S. Gulf Coast to process similarly acidic Maya**. (**Little Maya is exported to countries outside of USGC.**). Acidity will be the **biggest discounting factor** in price because so few other refineries can run it.
 
 Blending

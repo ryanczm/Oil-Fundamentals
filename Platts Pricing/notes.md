@@ -20,3 +20,10 @@
   * Complex with alot of parties involved. Just think about it.
   * Operations wise: ship operators, pipeline operators, terminal operators.
   * Could be wrong, but most of the time seller will get the stuff in the terminal. Buyer will load the stuff from the terminal. Rather than ship-to-ship.
+
+## Players
+
+* Financing: Banks
+* Prices: PRAs, brokers
+* Participants: Traders, vertically integrated firms, producers, refiners, ship owners, consumers.
+* Operations: terminal operators, ship operators
